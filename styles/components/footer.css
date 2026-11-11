@@ -1,0 +1,8 @@
+.site-footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 48px;
+    background: var(--blue-dark);
+    color: #fff;
+    font-size: 13px;
+}
